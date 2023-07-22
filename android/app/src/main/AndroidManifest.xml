@@ -1,6 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.input_widget_learning">
-   <application
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
         android:label="input_widget_learning"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/input_learn.iml" filepath="$PROJECT_DIR$/input_learn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/input_learn_android.iml" filepath="$PROJECT_DIR$/android/input_learn_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/input_widget_learning.iml" filepath="$PROJECT_DIR$/input_widget_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/input_widget_learning_android.iml" filepath="$PROJECT_DIR$/android/input_widget_learning_android.iml" />
     </modules>
   </component>
 </project>
